@@ -1,0 +1,778 @@
+"<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"  xmlns:podcast="https://podcastindex.org/namespace/1.0"  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="https://dmofnone.libsyn.com/rss" rel="self" type="application/rss+xml"/>
+		<title>Dungeon Master of None</title>
+		<pubDate>Fri, 03 Jun 2022 05:04:41 +0000</pubDate>
+		<lastBuildDate>Fri, 03 Jun 2022 05:13:28 +0000</lastBuildDate>
+		<generator>Libsyn WebEngine 2.0</generator>
+		<link>https://www.dmofnone.com/podcast/</link>
+		<language>aa</language>
+		<copyright><![CDATA[]]></copyright>
+		<docs>https://www.dmofnone.com/podcast/</docs>
+		<managingEditor>dmofnone@gmail.com (dmofnone@gmail.com)</managingEditor>
+		<itunes:summary><![CDATA[A general interest podcast for fans of Dungeons and Dragons and RPGs]]></itunes:summary>
+		<image>
+			<url>https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png</url>
+			<title>Dungeon Master of None</title>
+			<link><![CDATA[https://www.dmofnone.com/podcast/]]></link>
+		</image>
+		<itunes:author>Robert Guthrie</itunes:author>
+		<itunes:category text="Leisure">
+			<itunes:category text="Games"/>
+		</itunes:category>
+		<itunes:category text="Leisure">
+			<itunes:category text="Hobbies"/>
+		</itunes:category>
+		<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[Matt Drwenski & Rob Guthrie]]></itunes:name>
+			<itunes:email>dmofnone@gmail.com</itunes:email>
+		</itunes:owner>
+		<description><![CDATA[A general interest podcast for fans of Dungeons and Dragons and RPGs]]></description>
+		<itunes:subtitle><![CDATA[A general interest podcast for fans of Dungeons and Dragons and RPGs]]></itunes:subtitle>
+		<itunes:type>episodic</itunes:type>
+		<!-- START CHANNEL EXTRA TAGS -->
+<itunes:new-feed-url>http://dmofnone.libsyn.com/rss</itunes:new-feed-url><!-- CLOSE CHANNEL EXTRA TAGS -->
+
+
+
+		<podcast:locked owner="dmofnone@gmail.com">no</podcast:locked>
+		
+		<item>
+			<title>221 - The Best First D&amp;D Adventure</title>
+			<pubDate>Fri, 03 Jun 2022 05:04:41 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d908eb5e-1861-4835-a5c9-c3d69ab05c3d]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/221-the-best-first-dd-adventure]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Okay, you are ready to start a new campaign or bring new people into the community...so, how do you do it? DM Matt analyzes the 7 criteria needed to run the best, no, the greatest starting adventure for Dungeon and Dragons for new group, new players, or a new Dungeon Master (or all three). </p> <p><a href="https://discord.gg/qaJ42BCwJB">Join DMofNone on Discord.</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">And support the show on Patreon!</a></p>]]></description>
+			<content:encoded><![CDATA[<p>Okay, you are ready to start a new campaign or bring new people into the community...so, how do you do it? DM Matt analyzes the 7 criteria needed to run the best, no, the greatest starting adventure for Dungeon and Dragons for new group, new players, or a new Dungeon Master (or all three). </p> <p><a href="https://discord.gg/qaJ42BCwJB">Join DMofNone on Discord.</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">And support the show on Patreon!</a></p>]]></content:encoded>
+			<enclosure length="51473797" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/221_-_The_Best_First_DD_Adventure.mp3?dest-id=693858" />
+			<itunes:duration>01:01:11</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Okay, you are ready to start a new campaign or bring new people into the community...so, how do you do it? DM Matt analyzes the 7 criteria needed to run the best, no, the greatest starting adventure for Dungeon and Dragons for new group, new players,...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>221</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>220 - Monsters of the Multiverse </title>
+			<pubDate>Fri, 20 May 2022 04:17:04 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[db9b8f27-0e07-44f0-b2f6-f467e1ed597e]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/220-monsters-of-the-multiverse]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>We are at the mountains with the monsters in the multiverse of madness. DMs Matt and Rob review the "Bestiary 2" of Dungeons and Dragons 5e: <a href= "https://dnd.wizards.com/products/monsters-of-the-multiverse"><em>Mordenkainen Presents: Monsters of the Multiverse</em></a>.</p> <p><a href="https://discord.gg/qaJ42BCwJB">Join DMofNone on Discord.</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">And support the show on Patreon!</a></p>]]></description>
+			<content:encoded><![CDATA[<p>We are at the mountains with the monsters in the multiverse of madness. DMs Matt and Rob review the "Bestiary 2" of Dungeons and Dragons 5e: <a href= "https://dnd.wizards.com/products/monsters-of-the-multiverse"><em>Mordenkainen Presents: Monsters of the Multiverse</em></a>.</p> <p><a href="https://discord.gg/qaJ42BCwJB">Join DMofNone on Discord.</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">And support the show on Patreon!</a></p>]]></content:encoded>
+			<enclosure length="53186184" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/Monsters_of_the_Multiverse.mp3?dest-id=693858" />
+			<itunes:duration>01:07:09</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[We are at the mountains with the monsters in the multiverse of madness. DMs Matt and Rob review the "Bestiary 2" of Dungeons and Dragons 5e: .]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>220</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>219 - You Wouldn't Steal a Map</title>
+			<pubDate>Fri, 13 May 2022 03:09:22 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[31df4444-6b04-44c3-a3df-41a1332196dd]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/219-you-wouldnt-steal-a-map]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p><em>You wouldn't steal a map.</em></p> <p><em>You wouldn't steal a NPC. </em></p> <p><em>You wouldn't steal a monster.</em></p> <p><em>Stealing is against DragonLaw. </em></p> <p><em>Dungeon Mastering. It's a crime. </em></p> <p>No jokes in this one; it's a serious episode of solving Dungeon Mastering problems from your letters. </p> <p><a href="https://discord.gg/qaJ42BCwJB">Join DMofNone on Discord.</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">And support the show on Patreon!</a></p>]]></description>
+			<content:encoded><![CDATA[<p><em>You wouldn't steal a map.</em></p> <p><em>You wouldn't steal a NPC. </em></p> <p><em>You wouldn't steal a monster.</em></p> <p><em>Stealing is against DragonLaw. </em></p> <p><em>Dungeon Mastering. It's a crime. </em></p> <p>No jokes in this one; it's a serious episode of solving Dungeon Mastering problems from your letters. </p> <p><a href="https://discord.gg/qaJ42BCwJB">Join DMofNone on Discord.</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">And support the show on Patreon!</a></p>]]></content:encoded>
+			<enclosure length="49352208" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/219_-_You_Wouldnt_Steal_a_Map.mp3?dest-id=693858" />
+			<itunes:duration>01:00:41</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[You wouldn't steal a map. You wouldn't steal a NPC.  You wouldn't steal a monster. Stealing is against DragonLaw.  Dungeon Mastering. It's a crime.  No jokes in this one; it's a serious episode of solving Dungeon Mastering problems from...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>219</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>218 - MNN Newsroom</title>
+			<pubDate>Fri, 06 May 2022 21:04:18 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e9a6d563-588d-4e37-99f3-9b406a95fcaa]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/218-mnn-newsroom]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>That's right folks, it's the news! DM's Woodward and Bernstein report on all the latest happenings from throughout the multiverse, from fresh information about <em>Dungeons and Dragons: Honor Among Thieves</em>, to the latest on Wizards of the Coast's brand expansion plans.</p>]]></description>
+			<content:encoded><![CDATA[<p>That's right folks, it's the news! DM's Woodward and Bernstein report on all the latest happenings from throughout the multiverse, from fresh information about <em>Dungeons and Dragons: Honor Among Thieves</em>, to the latest on Wizards of the Coast's brand expansion plans.</p>]]></content:encoded>
+			<enclosure length="105101088" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/DMofNone_--_Newsroom.mp3?dest-id=693858" />
+			<itunes:duration>01:09:44</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[That's right folks, it's the news! DM's Woodward and Bernstein report on all the latest happenings from throughout the multiverse, from fresh information about Dungeons and Dragons: Honor Among Thieves, to the latest on Wizards of the Coast's brand...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>TEASER 214 - Building Ship Encounter Rules for 5e</title>
+			<pubDate>Thu, 05 May 2022 02:04:34 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[89a89679-aac1-4921-8584-82012a38aa49]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/teaser-214-building-ship-encounter-rules-for-5e]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>April, 1805. Vlaakith the Lich Queen is master of Astral Sea. Only the Dwarven fleet stands before her. The Crystal Spheres are now battlefields.</p> <p>It's time to build some ship encounter rules to celebrate the announcement of Spelljammer for 5e. We try to create rules for both abstract encounters and tactical grid combat.</p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">To listen to the whole episode and get a copy of our ship encounter rules, support us on Patreon! </a></p>]]></description>
+			<content:encoded><![CDATA[<p>April, 1805. Vlaakith the Lich Queen is master of Astral Sea. Only the Dwarven fleet stands before her. The Crystal Spheres are now battlefields.</p> <p>It's time to build some ship encounter rules to celebrate the announcement of Spelljammer for 5e. We try to create rules for both abstract encounters and tactical grid combat.</p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">To listen to the whole episode and get a copy of our ship encounter rules, support us on Patreon! </a></p>]]></content:encoded>
+			<enclosure length="9634741" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/TEASER_218_-_Building_Ship_Encounter_Rules_for_5e.mp3?dest-id=693858" />
+			<itunes:duration>11:49</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[April, 1805. Vlaakith the Lich Queen is master of Astral Sea. Only the Dwarven fleet stands before her. The Crystal Spheres are now battlefields. It's time to build some ship encounter rules to celebrate the announcement of Spelljammer for 5e. We try...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>bonus</itunes:episodeType>
+		</item>
+		<item>
+			<title>BONUS - Best of Year Four</title>
+			<pubDate>Sat, 30 Apr 2022 06:14:43 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0acf4b91-c7be-42e5-8419-a7b75f53adc7]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/bonus-best-of-year-four]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>It's yearly clip show time! Here are <em>some</em> of our favorite bits from the last year in Dungeon Master of None podcasting: organizing the first TTRPG union with the Paizo Workers Union, discussing <em>Dune</em>'s origins and worldbuilding with Nat of Metamashina, learning GMing tips from <em>Blades in the Dark</em>, trashing D&D NFTs with Linda of i09, and interviewing Orion of Dimension 20. </p> <p><a href="https://discord.gg/qaJ42BCwJB">Join our Discord</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">Support the show on Patreon</a></p>]]></description>
+			<content:encoded><![CDATA[<p>It's yearly clip show time! Here are <em>some</em> of our favorite bits from the last year in Dungeon Master of None podcasting: organizing the first TTRPG union with the Paizo Workers Union, discussing <em>Dune</em>'s origins and worldbuilding with Nat of Metamashina, learning GMing tips from <em>Blades in the Dark</em>, trashing D&D NFTs with Linda of i09, and interviewing Orion of Dimension 20. </p> <p><a href="https://discord.gg/qaJ42BCwJB">Join our Discord</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">Support the show on Patreon</a></p>]]></content:encoded>
+			<enclosure length="11678849" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/BONUS_Best_of_Year_Four.mp3?dest-id=693858" />
+			<itunes:duration>14:59</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[It's yearly clip show time! Here are some of our favorite bits from the last year in Dungeon Master of None podcasting: organizing the first TTRPG union with the Paizo Workers Union, discussing Dune's origins and worldbuilding with Nat of Metamashina,...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>bonus</itunes:episodeType>
+		</item>
+		<item>
+			<title>217 - D&amp;D NFTs with Linda Codega</title>
+			<pubDate>Thu, 21 Apr 2022 20:49:41 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[720ed5c2-7757-47c0-a6d2-d2d728ddf76c]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/217-dd-nfts-with-linda-codega]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Matt and Rob talk with <a href= "https://twitter.com/lincodega">Linda Codega</a> (they/them) of io9 about their article "<a href= "https://gizmodo.com/dungeons-dragons-nft-gripnr-blockchain-dnd-ttrpg-1848686984">NFTs Are Here to Ruin Dungeons and Dragons</a>", which is about Gripnr, the Web3/blockchain company behind <a href= "https://theglimmering.com/">The Glimmering</a>, and why maybe that's not such a good idea, actually.<br /> <br /> <a href="https://discord.gg/ZAjPWQCp7u" target="_blank" rel= "noopener">Check out our Discord</a><br /> <a href="patreon.com/DungeonMasterOfNone" target="_blank" rel= "noopener">Subscribe to our Patreon</a><br /> <br /> Music:<br /> <br /> Pac Div - Roll the Dice<br /> Meghan Trainor - Lips are Movin'<br /> Bush - Glycerine</p>]]></description>
+			<content:encoded><![CDATA[<p>Matt and Rob talk with <a href= "https://twitter.com/lincodega">Linda Codega</a> (they/them) of io9 about their article "<a href= "https://gizmodo.com/dungeons-dragons-nft-gripnr-blockchain-dnd-ttrpg-1848686984">NFTs Are Here to Ruin Dungeons and Dragons</a>", which is about Gripnr, the Web3/blockchain company behind <a href= "https://theglimmering.com/">The Glimmering</a>, and why maybe that's not such a good idea, actually.  <a href="https://discord.gg/ZAjPWQCp7u" target="_blank" rel= "noopener">Check out our Discord</a> <a href="patreon.com/DungeonMasterOfNone" target="_blank" rel= "noopener">Subscribe to our Patreon</a>  Music:  Pac Div - Roll the Dice Meghan Trainor - Lips are Movin' Bush - Glycerine</p>]]></content:encoded>
+			<enclosure length="114643968" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/DMofNone_DnD_NFTs_with_Linda_Codega.mp3?dest-id=693858" />
+			<itunes:duration>01:17:42</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Matt and Rob talk with  (they/them) of io9 about their article "", which is about Gripnr, the Web3/blockchain company behind , and why maybe that's not such a good idea, actually.     Music:  Pac Div - Roll the Dice Meghan Trainor - Lips are Movin'...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>BONUS Flee, Mortals! With James Introcaso</title>
+			<pubDate>Wed, 20 Apr 2022 04:42:44 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c041852d-06eb-42aa-981e-37f95295b04c]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/bonus-flee-mortals-with-james-introcaso]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>James Introcaso, Lead Designer of MCDM Productions, joins DMs Matt and Rob to chat about a new monster-focused book, <em>Flee,</em> <em>Mortals!</em>, and designing for 5e D&D. </p> <p><a href= "https://www.kickstarter.com/projects/mattcolville/mcdm-monster-book"> <em>Flee, Mortals! </em>Kickstarter</a> and <a href= "https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf"> Preview</a></p> <p><a href="https://www.mcdmproductions.com/">MCDM Productions</a></p>]]></description>
+			<content:encoded><![CDATA[<p>James Introcaso, Lead Designer of MCDM Productions, joins DMs Matt and Rob to chat about a new monster-focused book, <em>Flee,</em> <em>Mortals!</em>, and designing for 5e D&D. </p> <p><a href= "https://www.kickstarter.com/projects/mattcolville/mcdm-monster-book"> <em>Flee, Mortals! </em>Kickstarter</a> and <a href= "https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf"> Preview</a></p> <p><a href="https://www.mcdmproductions.com/">MCDM Productions</a></p>]]></content:encoded>
+			<enclosure length="44788176" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/BONUS_Flee_Mortals_With_James_Introcaso.mp3?dest-id=693858" />
+			<itunes:duration>53:02</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[James Introcaso, Lead Designer of MCDM Productions, joins DMs Matt and Rob to chat about a new monster-focused book, Flee, Mortals!, and designing for 5e D&D.   and]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>bonus</itunes:episodeType>
+		</item>
+		<item>
+			<title>216 - Call of the Netherdeep Review</title>
+			<pubDate>Tue, 12 Apr 2022 01:52:26 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ad22b8e9-acf4-425a-ba5e-c75d2fec1329]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/216-call-of-the-netherdeep-review]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>DMs Rob and Matt do a <em>netherdeep </em>dive into <a href= "https://dnd.wizards.com/products/call-netherdeep"><strong>Critical Role: Call of the Netherdeep</strong></a>. This campaign has a lot to offer but, like any published module, it needs fixing to work well. We once again take the approach of trying not to just review and critique but to review, critique, and offer suggestions for improvement. Without getting into spoilers, this module has a very high ceiling for <em>very cool sh*t</em>. However, there is a lot of work to do to get that payoff. Listen to find out if this module is the right fit for you and your players. </p> <p><a href="https://discord.gg/qaJ42BCwJB">Join our Discord to discuss this campaign or any campaign with some cool DMs!</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">You can also support the show and gets lots of bonus episodes by putting down $5 a month on Patreon. </a></p>]]></description>
+			<content:encoded><![CDATA[<p>DMs Rob and Matt do a <em>netherdeep </em>dive into <a href= "https://dnd.wizards.com/products/call-netherdeep">Critical Role: Call of the Netherdeep</a>. This campaign has a lot to offer but, like any published module, it needs fixing to work well. We once again take the approach of trying not to just review and critique but to review, critique, and offer suggestions for improvement. Without getting into spoilers, this module has a very high ceiling for <em>very cool sh*t</em>. However, there is a lot of work to do to get that payoff. Listen to find out if this module is the right fit for you and your players. </p> <p><a href="https://discord.gg/qaJ42BCwJB">Join our Discord to discuss this campaign or any campaign with some cool DMs!</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">You can also support the show and gets lots of bonus episodes by putting down $5 a month on Patreon. </a></p>]]></content:encoded>
+			<enclosure length="84669360" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/216_-_Call_of_the_Netherdeep.mp3?dest-id=693858" />
+			<itunes:duration>01:43:26</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[DMs Rob and Matt do a netherdeep dive into . This campaign has a lot to offer but, like any published module, it needs fixing to work well. We once again take the approach of trying not to just review and critique but to review, critique,...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>216</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>TEASER - 215 Unpopular Opinions </title>
+			<pubDate>Sat, 02 Apr 2022 04:12:22 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[70dcb1d2-6013-404c-bc4d-7b187d909fde]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/teaser-215-unpopular-opinions]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p><a href="https://www.patreon.com/DungeonMasterOfNone">TEASER for our March Patreon episode!</a></p> <p>We head down into the darkness to the <a href= "https://www.reddit.com/r/DnD/comments/tqv9ss/whats_your_most_unpopular_opinion_about_dming/?sort=controversial" target="_blank" rel="nofollow noopener">666th level of the Abyss</a> to discuss the <em><strong>most controversial DMing opinions ever. </strong></em></p>]]></description>
+			<content:encoded><![CDATA[<p><a href="https://www.patreon.com/DungeonMasterOfNone">TEASER for our March Patreon episode!</a></p> <p>We head down into the darkness to the <a href= "https://www.reddit.com/r/DnD/comments/tqv9ss/whats_your_most_unpopular_opinion_about_dming/?sort=controversial" target="_blank" rel="nofollow noopener">666th level of the Abyss</a> to discuss the <em>most controversial DMing opinions ever. </em></p>]]></content:encoded>
+			<enclosure length="8912112" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/TEASER_215_-_Unpopular_Opinions.mp3?dest-id=693858" />
+			<itunes:duration>11:06</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[We head down into the darkness to the  to discuss the most controversial DMing opinions ever. ]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>215</itunes:episode>
+			<itunes:episodeType>trailer</itunes:episodeType>
+		</item>
+		<item>
+			<title>214 - Blades in the Dark Part 2: The Darkening</title>
+			<pubDate>Fri, 01 Apr 2022 01:37:23 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c0db1ee4-18e0-4cf0-8114-220b91e1af8e]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/214-blades-in-the-dark-part-2-the-darkening]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Matt and Rob talk about the GMing section of BLADES IN THE DARK, which is very cool and stylish and full of good advice. Matt switches to his LATE NITE voice midway through because we were recording LATE at NIGHT.</p> <p> </p> <p> </p>]]></description>
+			<content:encoded><![CDATA[<p>Matt and Rob talk about the GMing section of BLADES IN THE DARK, which is very cool and stylish and full of good advice. Matt switches to his LATE NITE voice midway through because we were recording LATE at NIGHT.</p> <p> </p> <p> </p>]]></content:encoded>
+			<enclosure length="106696608" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/DMofNone_-_Blades_in_the_Dark_Part_Two.mp3?dest-id=693858" />
+			<itunes:duration>01:09:37</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Matt and Rob talk about the GMing section of BLADES IN THE DARK, which is very cool and stylish and full of good advice. Matt switches to his LATE NITE voice midway through because we were recording LATE at NIGHT.    ]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>213 - Blades in the Dark</title>
+			<pubDate>Tue, 22 Mar 2022 04:58:46 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6f17189f-61a6-419b-96ac-6d08245a4eab]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/213-blades-in-the-dark]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Fire up your demon-powered lightning fence because Dungeon Master of None is taking the podcast to Doskvol for a game of <strong><em>Blades in the Dark</em></strong>. This is a great system and setting for any DM to read and run, and there is so much to learn about world-building, running heists, character creation and more! </p> <p><a href="https://bladesinthedark.com/">Blades in the Dark</a> </p> <p><a href="https://discord.gg/qaJ42BCwJB">Join the Dungeon Master Union Hall on Discord</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">And support the podcast on Patreon!</a> </p>]]></description>
+			<content:encoded><![CDATA[<p>Fire up your demon-powered lightning fence because Dungeon Master of None is taking the podcast to Doskvol for a game of <em>Blades in the Dark</em>. This is a great system and setting for any DM to read and run, and there is so much to learn about world-building, running heists, character creation and more! </p> <p><a href="https://bladesinthedark.com/">Blades in the Dark</a> </p> <p><a href="https://discord.gg/qaJ42BCwJB">Join the Dungeon Master Union Hall on Discord</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">And support the podcast on Patreon!</a> </p>]]></content:encoded>
+			<enclosure length="61591680" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/213_-_Blades_in_the_Dark.mp3?dest-id=693858" />
+			<itunes:duration>01:14:31</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Fire up your demon-powered lightning fence because Dungeon Master of None is taking the podcast to Doskvol for a game of Blades in the Dark. This is a great system and setting for any DM to read and run, and there is so much to learn about...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>213</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>212 - Owlbear Pellets of Advice </title>
+			<pubDate>Thu, 10 Mar 2022 05:35:36 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b5be3095-50b1-4fe9-9bfa-e5c891592129]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/212-owlbear-pellets-of-advice]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>We are back with advice for your tables and worlds.</p> <p>How do balance Strength? Are Owlbear pellets canon? Can you run a "reverse level" campaign? What is a good length for a dungeon? Is it problematic to have magical and non-magical species? What does the cult of Tiamat need? Are really short sessions okay? </p> <p><a href="mailto:dmofnone@gmail.com" target="_blank" rel= "noopener">Send us your DM question here!</a></p> <p><a href="https://discord.gg/H5UhGDtQmV">Join our Discord!</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">And support the show on Patreon!</a> </p>]]></description>
+			<content:encoded><![CDATA[<p>We are back with advice for your tables and worlds.</p> <p>How do balance Strength? Are Owlbear pellets canon? Can you run a "reverse level" campaign? What is a good length for a dungeon? Is it problematic to have magical and non-magical species? What does the cult of Tiamat need? Are really short sessions okay? </p> <p><a href="mailto:dmofnone@gmail.com" target="_blank" rel= "noopener">Send us your DM question here!</a></p> <p><a href="https://discord.gg/H5UhGDtQmV">Join our Discord!</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">And support the show on Patreon!</a> </p>]]></content:encoded>
+			<enclosure length="47267904" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/212_-_Owlbear_Pellets_of_Advice.mp3?dest-id=693858" />
+			<itunes:duration>01:00:17</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[We are back with advice for your tables and worlds. How do balance Strength? Are Owlbear pellets canon? Can you run a "reverse level" campaign? What is a good length for a dungeon? Is it problematic to have magical and non-magical species? What does...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>212</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>UNLOCKED: Worldbuilding with Daddy Greenwood</title>
+			<pubDate>Fri, 04 Mar 2022 01:31:09 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f789bb04-2ccf-46d1-92cd-bcd0e429da76]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/unlocked-worldbuilding-with-daddy-greenwood]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p><span data-offset-key="c0og2-0-0">We've unlocked our August 2021 Patreon episode so all can glory in some VINTAGE DM advice!</span> <span data-offset-key="c0og2-0-0">Hop into the WABAC machine as DM "Mr. Peabody" Rob takes DM "Sherman" Matt on a journey to</span> <span style="font-style: italic;" data-offset-key= "c0og2-0-1"><span data-text="true">Dragon</span></span> <span data-offset-key="c0og2-0-2">Magazine #63, "Plan before you play: Think it over, then map it out" by Ed Greenwood.</span></p>]]></description>
+			<content:encoded><![CDATA[<p>We've unlocked our August 2021 Patreon episode so all can glory in some VINTAGE DM advice! Hop into the WABAC machine as DM "Mr. Peabody" Rob takes DM "Sherman" Matt on a journey to Dragon Magazine #63, "Plan before you play: Think it over, then map it out" by Ed Greenwood.</p>]]></content:encoded>
+			<enclosure length="63082224" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/181_-_Worldbuilding_with_Daddy_Greenwood.mp3?dest-id=693858" />
+			<itunes:duration>01:01:42</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[We've unlocked our August 2021 Patreon episode so all can glory in some VINTAGE DM advice! Hop into the WABAC machine as DM "Mr. Peabody" Rob takes DM "Sherman" Matt on a journey to Dragon Magazine #63, "Plan before you play: Think it over, then map...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>TEASER 211 - Ending Campaigns</title>
+			<pubDate>Wed, 02 Mar 2022 11:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ada68d4c-32b9-4164-975a-bbafcdb8c248]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/teaser-211-ending-campaigns]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Take a listen to a preview of February episode for our Patreon supporters as we attempt to answer the inevitable question:<br /> <strong><em>How do you end a campaign? </em></strong></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">You can unlock the full episode and tons of cool adventures, classes, NPCs, monsters and other fun stuff by supporting us on Patreon.</a></p>]]></description>
+			<content:encoded><![CDATA[<p>Take a listen to a preview of February episode for our Patreon supporters as we attempt to answer the inevitable question: <em>How do you end a campaign? </em></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">You can unlock the full episode and tons of cool adventures, classes, NPCs, monsters and other fun stuff by supporting us on Patreon.</a></p>]]></content:encoded>
+			<enclosure length="10403352" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/TEASER_211_-_Ending_Campaigns.mp3?dest-id=693858" />
+			<itunes:duration>13:12</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Take a listen to a preview of February episode for our Patreon supporters as we attempt to answer the inevitable question: How do you end a campaign? ]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>211</itunes:episode>
+			<itunes:episodeType>bonus</itunes:episodeType>
+		</item>
+		<item>
+			<title>210 - Monsters and More with Cinderblock Sally!</title>
+			<pubDate>Wed, 23 Feb 2022 22:47:40 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[74f9d057-c0d1-44a2-9ef6-53ce4259c758]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/210-monsters-and-more-with-cinderblock-sally]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Matt and Rob talk with <a href="@CinderBlocksal">Cinder Blocksally</a>, dungeon master and homebrewer extraordinaire, to talk about cool monsters, designing encounters, the best low-level spells, making TikToks, and more!</p> <p><a href= "https://www.tiktok.com/@cinderblocksally">TikTok</a><br /> <a href="https://www.twitch.tv/cinderblocksally">Twitch</a></p> <p><a href="https://linktr.ee/cinderblocksally">And more!</a></p>]]></description>
+			<content:encoded><![CDATA[<p>Matt and Rob talk with <a href="@CinderBlocksal">Cinder Blocksally</a>, dungeon master and homebrewer extraordinaire, to talk about cool monsters, designing encounters, the best low-level spells, making TikToks, and more!</p> <p><a href= "https://www.tiktok.com/@cinderblocksally">TikTok</a> <a href="https://www.twitch.tv/cinderblocksally">Twitch</a></p> <p><a href="https://linktr.ee/cinderblocksally">And more!</a></p>]]></content:encoded>
+			<enclosure length="108192432" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/DMofNone_Monsters_and_More_with_Cinderblock_Sally.mp3?dest-id=693858" />
+			<itunes:duration>01:12:10</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Matt and Rob talk with , dungeon master and homebrewer extraordinaire, to talk about cool monsters, designing encounters, the best low-level spells, making TikToks, and more!]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>209 - Talking 40k, Zines, and Kickstarter with Ben Wenham </title>
+			<pubDate>Thu, 17 Feb 2022 10:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[637d0856-496c-43bb-865e-5ad0be67ce29]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/209-talking-40k-zines-and-kickstarter-with-ben-wenham]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Special Warhammer Correspondent Ben Wenham joins DM Rob and Matt to update us on <a href= "https://dmofnone.libsyn.com/episode-134">his excellent breakdown of 40k and fascism</a> and to talk about the indie RPG scene, zines, and publishing on Kickstarter. </p> <p>People can find Ben at: <br /> <a href= "https://twitter.com/DarkForestPress">https://twitter.com/DarkForestPress</a> </p> <p>and</p> <p><a href= "https://benjaminwenham.itch.io">https://benjaminwenham.itch.io</a> </p> <p>People interested seeing some of the interesting stuff happening in the indie space right now can check out:<br /> <a href= "https://www.zinemonth.com">https://www.zinemonth.com</a> </p> <p>You can join Ben, Matt, Rob, and hundreds of other amazing DMs on <a href="https://discord.gg/SHaD4Yb2Px">the DMofNone Discord</a>. </p>]]></description>
+			<content:encoded><![CDATA[<p>Special Warhammer Correspondent Ben Wenham joins DM Rob and Matt to update us on <a href= "https://dmofnone.libsyn.com/episode-134">his excellent breakdown of 40k and fascism</a> and to talk about the indie RPG scene, zines, and publishing on Kickstarter. </p> <p>People can find Ben at:  <a href= "https://twitter.com/DarkForestPress">https://twitter.com/DarkForestPress</a> </p> <p>and</p> <p><a href= "https://benjaminwenham.itch.io">https://benjaminwenham.itch.io</a> </p> <p>People interested seeing some of the interesting stuff happening in the indie space right now can check out: <a href= "https://www.zinemonth.com">https://www.zinemonth.com</a> </p> <p>You can join Ben, Matt, Rob, and hundreds of other amazing DMs on <a href="https://discord.gg/SHaD4Yb2Px">the DMofNone Discord</a>. </p>]]></content:encoded>
+			<enclosure length="56073360" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/209_-_40k__Fascism_and_the_Indie_Scene_with_Ben_Wenham.mp3?dest-id=693858" />
+			<itunes:duration>01:11:21</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Special Warhammer Correspondent Ben Wenham joins DM Rob and Matt to update us on  and to talk about the indie RPG scene, zines, and publishing on Kickstarter.  People can find Ben at:    and   People interested seeing some of the...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>209</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>208 - Designing Deities</title>
+			<pubDate>Wed, 09 Feb 2022 18:44:29 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[13717a25-64e8-466e-8b73-8e90407cb535]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/208-designing-dieties]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Matt and Rob <span style="text-decoration: line-through;">become as</span> talk about gods, how to design them, when and where to include them in your game, and answer the most important question of all: what if God were one of us?</p> <p><a href="https://discord.gg/JkK3RdBK49">Discord Link</a></p> <p><br /> patreon.com/dungeonmasterofnone </p> <p>Music:<br /> <br /> Pac Div - Roll the Dice<br /> Drake - God's Plan<br /> NanowaR of Steel - Vallhalelujah<br /> Alanis Morissette - What if God Were One of Us</p>]]></description>
+			<content:encoded><![CDATA[<p>Matt and Rob become as talk about gods, how to design them, when and where to include them in your game, and answer the most important question of all: what if God were one of us?</p> <p><a href="https://discord.gg/JkK3RdBK49">Discord Link</a></p> <p> patreon.com/dungeonmasterofnone </p> <p>Music:  Pac Div - Roll the Dice Drake - God's Plan NanowaR of Steel - Vallhalelujah Alanis Morissette - What if God Were One of Us</p>]]></content:encoded>
+			<enclosure length="72687816" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/DMofNone_-_Designing_Dieties.mp3?dest-id=693858" />
+			<itunes:duration>01:09:42</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Matt and Rob become as talk about gods, how to design them, when and where to include them in your game, and answer the most important question of all: what if God were one of us?   patreon.com/dungeonmasterofnone  Music:  Pac Div - Roll the Dice...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>208</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>TEASER 207 - NPCs to Steal</title>
+			<pubDate>Tue, 01 Feb 2022 03:22:34 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[23e491f2-cdbc-4d10-a86b-6bf6942ba921]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/teaser-207-npcs-to-steal]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Rob and Matt cook up four NPCs for you to steal for your campaign: a do-gooding noble in a suit of celestial armor, a pair of gnomes purveying pretentious potables, a talking tomcat, and a modron actuary.  <a href= "https://www.patreon.com/DungeonMasterOfNone">Plots hooks are attached in .doc and .pdf formats on our Pateron page!</a></p>]]></description>
+			<content:encoded><![CDATA[<p>Rob and Matt cook up four NPCs for you to steal for your campaign: a do-gooding noble in a suit of celestial armor, a pair of gnomes purveying pretentious potables, a talking tomcat, and a modron actuary.  <a href= "https://www.patreon.com/DungeonMasterOfNone">Plots hooks are attached in .doc and .pdf formats on our Pateron page!</a></p>]]></content:encoded>
+			<enclosure length="8660304" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/PREVIEW_207_-_NPCs_to_Steal.mp3?dest-id=693858" />
+			<itunes:duration>10:55</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Rob and Matt cook up four NPCs for you to steal for your campaign: a do-gooding noble in a suit of celestial armor, a pair of gnomes purveying pretentious potables, a talking tomcat, and a modron actuary.  ]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>207</itunes:episode>
+			<itunes:episodeType>trailer</itunes:episodeType>
+		</item>
+		<item>
+			<title>206 - Rob Talks to DM Steve!</title>
+			<pubDate>Thu, 27 Jan 2022 02:27:53 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[33f9098f-4607-4c46-a504-50fffdf1ae59]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/206-rob-talks-to-dm-steve]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Rob sits down to talk DMing, actual plays, cosplay, lifting, and so much more with <a href= "https://twitter.com/aznsrepresent">Asians Represent</a> co-host <a href="https://twitter.com/DeeEmSteve">DM Steve</a>!</p> <p><a href= "https://www.drivethrurpg.com/product/306865/Unbreakable--Volume-1"> Unbreakable Volume 1</a></p>]]></description>
+			<content:encoded><![CDATA[<p>Rob sits down to talk DMing, actual plays, cosplay, lifting, and so much more with <a href= "https://twitter.com/aznsrepresent">Asians Represent</a> co-host <a href="https://twitter.com/DeeEmSteve">DM Steve</a>!</p> <p><a href= "https://www.drivethrurpg.com/product/306865/Unbreakable--Volume-1"> Unbreakable Volume 1</a></p>]]></content:encoded>
+			<enclosure length="69186480" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/DMofNone_-_Talking_with_DM_Steve.mp3?dest-id=693858" />
+			<itunes:duration>01:04:53</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Rob sits down to talk DMing, actual plays, cosplay, lifting, and so much more with  co-host !]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>205 - Orion D. Black</title>
+			<pubDate>Thu, 20 Jan 2022 23:26:59 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e696595b-86f5-475a-9c7e-5e709c39a26a]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/205-orion-d-black]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Dungeon Master, game designer, and actual play creative director Orion D. Black joins the show to talk about game design, creating actual plays, and world-building, and shows us what we can learn from the current wave of creative and inspiring DMs and RPG shows. </p> <p><a href="https://twitter.com/OrionDBlack">Follow Orion on Twitter</a></p> <p><a href="https://www.dimension20.dropout.tv/">Dimension 20</a></p> <p><a href="https://oriondblack.itch.io/plot-armor">plot ARMOR single-player RPG</a></p> <p><a href="https://www.youtube.com/c/transplanarrpg">Transplanar RPG</a> </p> <p><a href="https://linktr.ee/BeeZelda">Bee Zelda</a></p>]]></description>
+			<content:encoded><![CDATA[<p>Dungeon Master, game designer, and actual play creative director Orion D. Black joins the show to talk about game design, creating actual plays, and world-building, and shows us what we can learn from the current wave of creative and inspiring DMs and RPG shows. </p> <p><a href="https://twitter.com/OrionDBlack">Follow Orion on Twitter</a></p> <p><a href="https://www.dimension20.dropout.tv/">Dimension 20</a></p> <p><a href="https://oriondblack.itch.io/plot-armor">plot ARMOR single-player RPG</a></p> <p><a href="https://www.youtube.com/c/transplanarrpg">Transplanar RPG</a> </p> <p><a href="https://linktr.ee/BeeZelda">Bee Zelda</a></p>]]></content:encoded>
+			<enclosure length="47269296" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/205_Orion_Black.mp3?dest-id=693858" />
+			<itunes:duration>01:01:59</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Dungeon Master, game designer, and actual play creative director Orion D. Black joins the show to talk about game design, creating actual plays, and world-building, and shows us what we can learn from the current wave of creative and inspiring DMs and...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>205</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>204 - Dungeon Master Resolutions </title>
+			<pubDate>Wed, 12 Jan 2022 10:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[17360615-b2d6-4936-88b4-a3fe2e042a35]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/204-dungeon-master-resolutions]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p><em>New year, same Dungeon Master of None</em></p> <p>DMs Matt and Rob discuss their game mastering New Year's resolutions and say goodbye to our favorite fantasy TV series of 2021 (spoilers for the Witcher and Wheel of Time end at 27 minutes). </p> <p>Then, on to some DM advice...loving the brain mole...finding ways to fix publish modules...getting campy with it...using political factions...breaking the interplanar economy. </p>]]></description>
+			<content:encoded><![CDATA[<p><em>New year, same Dungeon Master of None</em></p> <p>DMs Matt and Rob discuss their game mastering New Year's resolutions and say goodbye to our favorite fantasy TV series of 2021 (spoilers for the Witcher and Wheel of Time end at 27 minutes). </p> <p>Then, on to some DM advice...loving the brain mole...finding ways to fix publish modules...getting campy with it...using political factions...breaking the interplanar economy. </p>]]></content:encoded>
+			<enclosure length="54291240" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/204_-_DM_Resolutions.mp3?dest-id=693858" />
+			<itunes:duration>01:09:47</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[New year, same Dungeon Master of None DMs Matt and Rob discuss their game mastering New Year's resolutions and say goodbye to our favorite fantasy TV series of 2021 (spoilers for the Witcher and Wheel of Time end at 27 minutes).  Then, on to some...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>204</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>203 - Fallout! </title>
+			<pubDate>Wed, 05 Jan 2022 19:31:21 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[486596c8-4186-4b12-a1e6-8cfb86dd41bf]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/203-fallout]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>War never changes folks, except when it does. Rob talks to Matt about the Fallout franchise, hopefully explaining who that little guy is, why everything looks like that, and what's cool (and not so cool) about these games that you can borrow for your own worldbuilding!</p> <p>patreon.com/DungeonMasterOfNone</p> <p><a href="https://discord.gg/Gu5UK5VuKY">Discord</a></p> <p>Music:</p> <p>Pac Div - Roll the Dice<br /> Ink Spots - I Don't Want to Set The World on Fire<br /> Bing Crosby - Something's Gotta Give<br /> Sheldon Allman - Crawl Out Through the Fallout<br /> Dion - The Wanderer<br /> <br /></p>]]></description>
+			<content:encoded><![CDATA[<p>War never changes folks, except when it does. Rob talks to Matt about the Fallout franchise, hopefully explaining who that little guy is, why everything looks like that, and what's cool (and not so cool) about these games that you can borrow for your own worldbuilding!</p> <p>patreon.com/DungeonMasterOfNone</p> <p><a href="https://discord.gg/Gu5UK5VuKY">Discord</a></p> <p>Music:</p> <p>Pac Div - Roll the Dice Ink Spots - I Don't Want to Set The World on Fire Bing Crosby - Something's Gotta Give Sheldon Allman - Crawl Out Through the Fallout Dion - The Wanderer </p>]]></content:encoded>
+			<enclosure length="68254632" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/DMofNone_-_Fallout.mp3?dest-id=693858" />
+			<itunes:duration>01:04:51</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[War never changes folks, except when it does. Rob talks to Matt about the Fallout franchise, hopefully explaining who that little guy is, why everything looks like that, and what's cool (and not so cool) about these games that you can borrow for your...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>TEASER 202 - Patreon Q&amp;A</title>
+			<pubDate>Sat, 01 Jan 2022 02:48:39 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[1af3292d-43e9-43a7-a7c8-a110c50580c8]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/teaser-202-patreon-qa]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Matt and Rob answer patron questions about copyright, PC rerolls, sound waves, Lacanian psychoanalysis, and more!</p>]]></description>
+			<content:encoded><![CDATA[<p>Matt and Rob answer patron questions about copyright, PC rerolls, sound waves, Lacanian psychoanalysis, and more!</p>]]></content:encoded>
+			<enclosure length="6663864" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/DMofNone__BONUS_-_Patreon_QA_Teaser.mp3?dest-id=693858" />
+			<itunes:duration>06:17</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Matt and Rob answer patron questions about copyright, PC rerolls, sound waves, Lacanian psychoanalysis, and more!]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>201 - 200 Dungeon Master Inspirations (Part 2)</title>
+			<pubDate>Fri, 31 Dec 2021 11:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[92318f80-54c5-4013-99ae-676d36c8d9fa]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/201-200-dungeon-master-inspirations-part-2]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Complete the mindmeld with DMs Matt and Rob with the epic conclusion to our 200 DM Inspirations for your campaigns and adventures. </p> <p><a href= "https://docs.google.com/document/d/1EpIINlXpPxJo2_LC_7fgrTfGLCNIFWn3FducNwS72n8/edit?usp=sharing"> Links for all 200 Inspirations</a> </p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">Join our Patreon here!</a> </p> <p><a href="https://discord.gg/t9kfYBe9pF">And discuss this episode and DMing on our Discord!</a> </p>]]></description>
+			<content:encoded><![CDATA[<p>Complete the mindmeld with DMs Matt and Rob with the epic conclusion to our 200 DM Inspirations for your campaigns and adventures. </p> <p><a href= "https://docs.google.com/document/d/1EpIINlXpPxJo2_LC_7fgrTfGLCNIFWn3FducNwS72n8/edit?usp=sharing"> Links for all 200 Inspirations</a> </p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">Join our Patreon here!</a> </p> <p><a href="https://discord.gg/t9kfYBe9pF">And discuss this episode and DMing on our Discord!</a> </p>]]></content:encoded>
+			<enclosure length="60426168" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/201_-_200_DM_Inspirations_Part_2.mp3?dest-id=693858" />
+			<itunes:duration>01:19:11</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Complete the mindmeld with DMs Matt and Rob with the epic conclusion to our 200 DM Inspirations for your campaigns and adventures.       ]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>201</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>200 - 200 Dungeon Master Inspirations (Part 1)</title>
+			<pubDate>Fri, 31 Dec 2021 00:20:12 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[82061cbd-0cb6-4f5b-afe8-39c89f4a89b4]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/200-200-dungeon-master-inspirations-part-1]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>200 Dungeon Master inspirations—films, books, shows, historical events, old modules, and sourcebooks—to keep your D&D tank running at full. </p> <p><a href= "https://docs.google.com/document/d/1EpIINlXpPxJo2_LC_7fgrTfGLCNIFWn3FducNwS72n8/edit?usp=sharing"> Links for all 200 Inspirations</a> </p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">Join our Patreon here!</a> </p> <p><a href="https://discord.gg/t9kfYBe9pF">And discuss this episode and DMing on our Discord!</a> </p>]]></description>
+			<content:encoded><![CDATA[<p>200 Dungeon Master inspirations—films, books, shows, historical events, old modules, and sourcebooks—to keep your D&D tank running at full. </p> <p><a href= "https://docs.google.com/document/d/1EpIINlXpPxJo2_LC_7fgrTfGLCNIFWn3FducNwS72n8/edit?usp=sharing"> Links for all 200 Inspirations</a> </p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">Join our Patreon here!</a> </p> <p><a href="https://discord.gg/t9kfYBe9pF">And discuss this episode and DMing on our Discord!</a> </p>]]></content:encoded>
+			<enclosure length="80250456" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/200_-_200_DM_Inspirations_Part_1.mp3?dest-id=693858" />
+			<itunes:duration>01:44:31</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[200 Dungeon Master inspirations—films, books, shows, historical events, old modules, and sourcebooks—to keep your D&D tank running at full.       ]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>200</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>199 - Strixhaven (Part 2 - Running the Adventure)</title>
+			<pubDate>Tue, 21 Dec 2021 11:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[dda6eae0-b6c6-43f8-843d-2eb2482cabcf]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/199-strixhaven-part-2-running-the-adventure]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>DMs Matt and Rob do a deep, deep dive into running the adventure in <em>Strixhaven: A Curriculum of Chaos</em>. Think of this as your Dungeon Master syllabus for creating and running this campaign. And the information you need is ALWAYS IN THE SYLLABUS. </p>]]></description>
+			<content:encoded><![CDATA[<p>DMs Matt and Rob do a deep, deep dive into running the adventure in <em>Strixhaven: A Curriculum of Chaos</em>. Think of this as your Dungeon Master syllabus for creating and running this campaign. And the information you need is ALWAYS IN THE SYLLABUS. </p>]]></content:encoded>
+			<enclosure length="63506928" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/199_Strixhaven_Part_2.mp3?dest-id=693858" />
+			<itunes:duration>01:21:00</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[DMs Matt and Rob do a deep, deep dive into running the adventure in Strixhaven: A Curriculum of Chaos. Think of this as your Dungeon Master syllabus for creating and running this campaign. And the information you need is ALWAYS IN THE SYLLABUS. ]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>199</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>198 - Strixhaven (Part One)</title>
+			<pubDate>Thu, 16 Dec 2021 22:36:46 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6c025b6b-936c-4fa8-b083-211087750c81]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/198-strixhaven-part-one]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Matt and Rob discuss <em>Strixhaven: A Curriculum of Chaos</em>, the newest Wizards of the Coast adventure! No spoilers for this one, we got distracted talking about dialectics and didn't get to the actual adventure.</p>]]></description>
+			<content:encoded><![CDATA[<p>Matt and Rob discuss <em>Strixhaven: A Curriculum of Chaos</em>, the newest Wizards of the Coast adventure! No spoilers for this one, we got distracted talking about dialectics and didn't get to the actual adventure.</p>]]></content:encoded>
+			<enclosure length="66675648" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/DMofNone_Strixhaven_Part_1.mp3?dest-id=693858" />
+			<itunes:duration>01:04:05</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Matt and Rob discuss Strixhaven: A Curriculum of Chaos, the newest Wizards of the Coast adventure! No spoilers for this one, we got distracted talking about dialectics and didn't get to the actual adventure.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>197 - Running Con Games</title>
+			<pubDate>Wed, 08 Dec 2021 10:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[8f792d86-685b-4c4b-919c-cb1f695a88e9]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/197-running-con-games]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Get your lanyard on and your schedule ready, because DMs Rob, Matt, and Andy are off to your friendly local gaming convention. Let's learn how to prep and run a con game, how cons can help you experience new RPG systems and new types of play, and how to keep yourself and your players safe at the con table. </p> <p><a href="https://discord.gg/w7EyxvFhVp">Join the DM Union Hall Discord!</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">Support the show on Patreon!</a> </p>]]></description>
+			<content:encoded><![CDATA[<p>Get your lanyard on and your schedule ready, because DMs Rob, Matt, and Andy are off to your friendly local gaming convention. Let's learn how to prep and run a con game, how cons can help you experience new RPG systems and new types of play, and how to keep yourself and your players safe at the con table. </p> <p><a href="https://discord.gg/w7EyxvFhVp">Join the DM Union Hall Discord!</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">Support the show on Patreon!</a> </p>]]></content:encoded>
+			<enclosure length="50073028" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/197_Con_Games.mp3?dest-id=693858" />
+			<itunes:duration>01:01:17</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Get your lanyard on and your schedule ready, because DMs Rob, Matt, and Andy are off to your friendly local gaming convention. Let's learn how to prep and run a con game, how cons can help you experience new RPG systems and new types of play, and how...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>197</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>UNLOCKED - Making Villans</title>
+			<pubDate>Fri, 03 Dec 2021 06:18:30 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0918eba7-da8f-470e-8763-74916e6adcd3]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/unlocked-making-villans]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>From behind the vault, it's one of our premium episodes: <em>Making Villains</em>! DMs Matt and Rob build four foes for use in your next campaign. </p> <p>Links: </p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">You can also get the statblocks for all four villains along with all our premium episodes, adventures, and homebrews by joining our Patreon.</a></p> <p><a href="https://discord.gg/H5UhGDtQmV">We would also love to see you over at the DM Union Hall on Discord. Drop by for discussions and friendly game advice!</a></p>]]></description>
+			<content:encoded><![CDATA[<p>From behind the vault, it's one of our premium episodes: <em>Making Villains</em>! DMs Matt and Rob build four foes for use in your next campaign. </p> <p>Links: </p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">You can also get the statblocks for all four villains along with all our premium episodes, adventures, and homebrews by joining our Patreon.</a></p> <p><a href="https://discord.gg/H5UhGDtQmV">We would also love to see you over at the DM Union Hall on Discord. Drop by for discussions and friendly game advice!</a></p>]]></content:encoded>
+			<enclosure length="59698104" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/165_-_Making_Villians_UNLOCKED.mp3?dest-id=693858" />
+			<itunes:duration>01:15:34</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[From behind the vault, it's one of our premium episodes: Making Villains! DMs Matt and Rob build four foes for use in your next campaign.  Links: ]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>bonus</itunes:episodeType>
+		</item>
+		<item>
+			<title>196 - Worldbuilding Holidays TEASER</title>
+			<pubDate>Wed, 01 Dec 2021 00:42:02 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ea66de5c-a47c-4b74-a899-4b2870b07194]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/196-worldbuilding-holidays-teaser]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Pack your bags and stuff your turkeys! Let's discuss building calendars and holidays for your campaigns and one-shots.</p> <p>Attached below (for patrons) is our set of tables and hooks for various types of holidays to throw into your current game.</p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">Join our Patreon for four one-shot adventures, two custom class documents, monsters, NPCs, magic items, and a whole work day of bonus episodes.</a> </p>]]></description>
+			<content:encoded><![CDATA[<p>Pack your bags and stuff your turkeys! Let's discuss building calendars and holidays for your campaigns and one-shots.</p> <p>Attached below (for patrons) is our set of tables and hooks for various types of holidays to throw into your current game.</p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">Join our Patreon for four one-shot adventures, two custom class documents, monsters, NPCs, magic items, and a whole work day of bonus episodes.</a> </p>]]></content:encoded>
+			<enclosure length="6763656" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/196_TEASER_Worldbuilding_Holidays.mp3?dest-id=693858" />
+			<itunes:duration>08:45</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Pack your bags and stuff your turkeys! Let's discuss building calendars and holidays for your campaigns and one-shots. Attached below (for patrons) is our set of tables and hooks for various types of holidays to throw into your current game.  ]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>196</itunes:episode>
+			<itunes:episodeType>bonus</itunes:episodeType>
+		</item>
+		<item>
+			<title>195 - The Wheel of Time </title>
+			<pubDate>Wed, 24 Nov 2021 16:37:47 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[57133b9d-280d-4251-9718-cd5f1ec31f0e]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/195-the-wheel-of-time]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>The Wheel weaves as the Wheel wills, friends! DMs Matt and Rob get out their <em>ter'angreal,</em> tug on their braids, and swear on the Oathrod to speak no word that is not true about the new Amazon <em>The</em> <em>Wheel of Time </em>TV show and the classic fantasy doorstoppers by Robert Jordan.</p> <p><a href="https://discord.gg/H5UhGDtQmV">Join our Discord here!</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">Sign up for our Patreon bonus episodes and content here!</a></p> <p>Music: Pac Div - Roll the Dice; Robert Berry - Ladies of the Tower; Robert Berry - Theme for the Wheel of Time. </p>]]></description>
+			<content:encoded><![CDATA[<p>The Wheel weaves as the Wheel wills, friends! DMs Matt and Rob get out their <em>ter'angreal,</em> tug on their braids, and swear on the Oathrod to speak no word that is not true about the new Amazon <em>The</em> <em>Wheel of Time </em>TV show and the classic fantasy doorstoppers by Robert Jordan.</p> <p><a href="https://discord.gg/H5UhGDtQmV">Join our Discord here!</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">Sign up for our Patreon bonus episodes and content here!</a></p> <p>Music: Pac Div - Roll the Dice; Robert Berry - Ladies of the Tower; Robert Berry - Theme for the Wheel of Time. </p>]]></content:encoded>
+			<enclosure length="59871096" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/195_-_The_Wheel_of_Time.mp3?dest-id=693858" />
+			<itunes:duration>01:16:55</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[The Wheel weaves as the Wheel wills, friends! DMs Matt and Rob get out their ter'angreal, tug on their braids, and swear on the Oathrod to speak no word that is not true about the new Amazon The Wheel of Time TV show and the classic fantasy...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>195</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>194 - November Mailbag of Holding</title>
+			<pubDate>Thu, 18 Nov 2021 19:02:34 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[746966fa-d549-43ea-8547-6c9d20511e13]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/194-november-mailbag-of-holding]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Matt and Rob answer more letters, and one very unusual voicemail. Random encounters, spicing up humanoid encounters, setting boundaries at the table, and more!</p> <p><a href="https://discord.gg/9MuHSEuUH3">Discord</a><br /> <br /> <a href= "https://www.patreon.com/DungeonMasterOfNone">Patreon</a><br /> <br /> Music:</p> <p>Pac Div - Roll the Dice<br /> Dream Theater - Invisible Monster<br /> RUSTAGE - Yu-gi-oh Rap ("Time to Duel")</p>]]></description>
+			<content:encoded><![CDATA[<p>Matt and Rob answer more letters, and one very unusual voicemail. Random encounters, spicing up humanoid encounters, setting boundaries at the table, and more!</p> <p><a href="https://discord.gg/9MuHSEuUH3">Discord</a>  <a href= "https://www.patreon.com/DungeonMasterOfNone">Patreon</a>  Music:</p> <p>Pac Div - Roll the Dice Dream Theater - Invisible Monster RUSTAGE - Yu-gi-oh Rap ("Time to Duel")</p>]]></content:encoded>
+			<enclosure length="62719368" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/DMofNone_194_-_November_Mailbag.mp3?dest-id=693858" />
+			<itunes:duration>01:02:28</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Matt and Rob answer more letters, and one very unusual voicemail. Random encounters, spicing up humanoid encounters, setting boundaries at the table, and more!     Music: Pac Div - Roll the Dice Dream Theater - Invisible Monster RUSTAGE - Yu-gi-oh Rap...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>193 - DragonRaid: The Christian D&amp;D </title>
+			<pubDate>Thu, 11 Nov 2021 03:59:54 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0d4b7095-1d3d-4235-b4db-611b459d9214]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/193-dragonraid-the-christian-dd]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Hey, the boys are back in town! DMs Rob and Matt are recording in the same room and they have a treat for you! Today, it's time to grab your StarLot and practice your WordRunes as we dive into <em><strong>DragonRaid Adventure Learning System, </strong></em>the RPG written by your cool Youth Pastor. It's a blast from the 1980s past, so come with us to Sunday School to play a Biblical D&D. </p> <p><a href="https://imgur.com/gallery/0ewEVMM">DragonRaid Image Gallery</a></p>]]></description>
+			<content:encoded><![CDATA[<p>Hey, the boys are back in town! DMs Rob and Matt are recording in the same room and they have a treat for you! Today, it's time to grab your StarLot and practice your WordRunes as we dive into <em>DragonRaid Adventure Learning System, </em>the RPG written by your cool Youth Pastor. It's a blast from the 1980s past, so come with us to Sunday School to play a Biblical D&D. </p> <p><a href="https://imgur.com/gallery/0ewEVMM">DragonRaid Image Gallery</a></p>]]></content:encoded>
+			<enclosure length="49229268" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/193_-_DragonRaid_the_Christian_DD.mp3?dest-id=693858" />
+			<itunes:duration>01:08:02</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Hey, the boys are back in town! DMs Rob and Matt are recording in the same room and they have a treat for you! Today, it's time to grab your StarLot and practice your WordRunes as we dive into DragonRaid Adventure Learning System, the RPG written...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>193</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>192 - What is the Dungeons and Dragons Genre?</title>
+			<pubDate>Fri, 05 Nov 2021 19:33:59 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[86241389-451c-447a-9d0a-75c88a5ea201]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/192-what-is-the-dungeons-and-dragons-genre]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Get out your textbooks everyone because Matt and Rob are talking about what the D&D genre is -- is it fantasy? Is it something else? How does the structure of the game affect the stories you tell? Does any of this matter?</p> <p>Music:</p> <p>Pac Div - Roll the Dice<br /> James Horner - Pagemaster Theme<br /> James Horner - Storyteller Theme<br /> Earth, Wind, and Fire - Fantasy</p>]]></description>
+			<content:encoded><![CDATA[<p>Get out your textbooks everyone because Matt and Rob are talking about what the D&D genre is -- is it fantasy? Is it something else? How does the structure of the game affect the stories you tell? Does any of this matter?</p> <p>Music:</p> <p>Pac Div - Roll the Dice James Horner - Pagemaster Theme James Horner - Storyteller Theme Earth, Wind, and Fire - Fantasy</p>]]></content:encoded>
+			<enclosure length="69373248" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/DMofNone_-_DnD_as_a_Genre.mp3?dest-id=693858" />
+			<itunes:duration>01:08:08</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Get out your textbooks everyone because Matt and Rob are talking about what the D&D genre is -- is it fantasy? Is it something else? How does the structure of the game affect the stories you tell? Does any of this matter? Music: Pac Div - Roll the...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>192</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>191 - Fizban's Treasury of Dragons</title>
+			<pubDate>Tue, 02 Nov 2021 05:14:45 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b523975a-8f52-44f8-86d7-f83ab3a7f2c3]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/191-fizbans-treasury-of-dragons]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Fizban, your favorite fourth wall-breaking, wise-cracking DMPC is here to sing, stat, and chat about dragons in our review of <em>Fizban's Treasury of Dragons.</em></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">DMofNone Patreon </a></p>]]></description>
+			<content:encoded><![CDATA[<p>Fizban, your favorite fourth wall-breaking, wise-cracking DMPC is here to sing, stat, and chat about dragons in our review of <em>Fizban's Treasury of Dragons.</em></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">DMofNone Patreon </a></p>]]></content:encoded>
+			<enclosure length="52618248" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/191_-_Fizbans_Treasury_of_Dragons.mp3?dest-id=693858" />
+			<itunes:duration>01:07:11</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Fizban, your favorite fourth wall-breaking, wise-cracking DMPC is here to sing, stat, and chat about dragons in our review of Fizban's Treasury of Dragons.]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>191</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>190 - Paizo Workers Union</title>
+			<pubDate>Sun, 17 Oct 2021 22:57:15 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ceb8237c-3e76-4b86-b2c5-a0bc5cc51d49]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/190-paizo-workers-union]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p><strong>Don't Split the Party! </strong>We are honored to be joined by two members of the <strong><a href= "https://unitedpaizoworkers.org/">Paizo Workers Union</a></strong>: Jason Tondro and Andrew White. They tell us about <strong>the unionization drive at Paizo</strong> and how everyone can help support Paizo writers, editors, artists, designers, engineers, warehouse workers, and freelancers. </p> <p>To help, you should:</p> <ul> <li>Email the Paizo executives (<a href= "mailto:jeff.alvarez@paizo.com">Jeff Alvarez</a>, <a href= "mailto:erik.mona@paizo.com">Erik Mona</a>, and <a href= "mailto:lisa.stevens@paizo.com">Lisa Stevens</a>) politely requesting that they voluntarily accept the union. </li> <li>Post your support for the union on <a href= "https://paizo.com/community/forums/paizo/general">the Paizo forums</a>. </li> <li>Share your support under the #UnionizePaizo and follow <a href= "https://twitter.com/PaizoWorkers">@PaizoWorkers</a> for updates. Visit the <a href="https://unitedpaizoworkers.org/">union website for logos, art, a FAQ, and daily updates</a>.</li> <li>Contact your players, game masters, and friends to do the same ASAP! </li> <li>DO NOT boycott Paizo at this time. </li> <li>Read the <a href="https://unitedpaizoworkers.org/faq/">"How do I Help" for more information</a>. </li> <li>Be ready to keep the pressure up in case this goes to a NLRB election. </li> </ul> <p>Solidarity forever! </p>]]></description>
+			<content:encoded><![CDATA[<p>Don't Split the Party! We are honored to be joined by two members of the <a href= "https://unitedpaizoworkers.org/">Paizo Workers Union</a>: Jason Tondro and Andrew White. They tell us about the unionization drive at Paizo and how everyone can help support Paizo writers, editors, artists, designers, engineers, warehouse workers, and freelancers. </p> <p>To help, you should:</p> <ul> <li>Email the Paizo executives (<a href= "mailto:jeff.alvarez@paizo.com">Jeff Alvarez</a>, <a href= "mailto:erik.mona@paizo.com">Erik Mona</a>, and <a href= "mailto:lisa.stevens@paizo.com">Lisa Stevens</a>) politely requesting that they voluntarily accept the union. </li> <li>Post your support for the union on <a href= "https://paizo.com/community/forums/paizo/general">the Paizo forums</a>. </li> <li>Share your support under the #UnionizePaizo and follow <a href= "https://twitter.com/PaizoWorkers">@PaizoWorkers</a> for updates. Visit the <a href="https://unitedpaizoworkers.org/">union website for logos, art, a FAQ, and daily updates</a>.</li> <li>Contact your players, game masters, and friends to do the same ASAP! </li> <li>DO NOT boycott Paizo at this time. </li> <li>Read the <a href="https://unitedpaizoworkers.org/faq/">"How do I Help" for more information</a>. </li> <li>Be ready to keep the pressure up in case this goes to a NLRB election. </li> </ul> <p>Solidarity forever! </p>]]></content:encoded>
+			<enclosure length="47266843" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/190_-_United_Paizo_Workers.mp3?dest-id=693858" />
+			<itunes:duration>57:52</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Don't Split the Party! We are honored to be joined by two members of the : Jason Tondro and Andrew White. They tell us about the unionization drive at Paizo and how everyone can help support Paizo writers, editors, artists, designers, engineers,...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>190</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>189 - Spooky Season DM Q&amp;A</title>
+			<pubDate>Wed, 13 Oct 2021 03:34:40 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[88c8ded2-7fc7-43f1-aa93-195aee1ccfbe]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/189-spooky-season-dm-qa]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>DMs Matt and Rob answer the silliest spooky season RPG questions. First, we take a look at the new <a href= "https://media.wizards.com/2021/dnd/downloads/UA2021_TravelersoftheMultiverse.pdf"> Unearthed Arcana: Travelers of the Multiverse</a> and the <a href= "https://dnd.wizards.com/articles/sage-advice/creature-evolutions">new revised monster stat blocks</a>.</p> <p><a href="https://discord.gg/bVAzpMr4yc">Join us on Discord</a>;</p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">and subscribe to our Patreon</a>! </p> <p> </p>]]></description>
+			<content:encoded><![CDATA[<p>DMs Matt and Rob answer the silliest spooky season RPG questions. First, we take a look at the new <a href= "https://media.wizards.com/2021/dnd/downloads/UA2021_TravelersoftheMultiverse.pdf"> Unearthed Arcana: Travelers of the Multiverse</a> and the <a href= "https://dnd.wizards.com/articles/sage-advice/creature-evolutions">new revised monster stat blocks</a>.</p> <p><a href="https://discord.gg/bVAzpMr4yc">Join us on Discord</a>;</p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">and subscribe to our Patreon</a>! </p> <p> </p>]]></content:encoded>
+			<enclosure length="49376160" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/189_-_Spooky_Season_DM_QA.mp3?dest-id=693858" />
+			<itunes:duration>01:02:35</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[DMs Matt and Rob answer the silliest spooky season RPG questions. First, we take a look at the new  and the . ; !   ]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>189</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>188 - Mutants and Masterminds!</title>
+			<pubDate>Wed, 06 Oct 2021 15:27:23 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[54ee2308-97bb-4dd0-9d3c-9c10e5bab9f7]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/188-mutants-and-masterminds]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Matt and Rob finally get around to talking about superheroes, which they somehow haven't managed to do yet? They discuss MUTANTS AND MASTERMINDS by Green Ronin games, how to run a superhero game, lycra vs. spandex, and more!</p> <p><a href= "https://discord.com/invite/JkK3RdBK49">Discord</a><br /> <br /> <a href= "https://www.patreon.com/DungeonMasterOfNone">Patreon</a></p> <p>Music:</p> <p>Pac Div - Roll the Dice<br /> Three Doors Down - Kryptonite<br /> Nickelback - Hero<br /> David Guetta & Bowie - Just for One Day<br /> Seal - Kiss from a Rose</p>]]></description>
+			<content:encoded><![CDATA[<p>Matt and Rob finally get around to talking about superheroes, which they somehow haven't managed to do yet? They discuss MUTANTS AND MASTERMINDS by Green Ronin games, how to run a superhero game, lycra vs. spandex, and more!</p> <p><a href= "https://discord.com/invite/JkK3RdBK49">Discord</a>  <a href= "https://www.patreon.com/DungeonMasterOfNone">Patreon</a></p> <p>Music:</p> <p>Pac Div - Roll the Dice Three Doors Down - Kryptonite Nickelback - Hero David Guetta & Bowie - Just for One Day Seal - Kiss from a Rose</p>]]></content:encoded>
+			<enclosure length="74267232" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/DMofNone_188_-_Mutants_and_Masterminds.mp3?dest-id=693858" />
+			<itunes:duration>01:13:03</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Matt and Rob finally get around to talking about superheroes, which they somehow haven't managed to do yet? They discuss MUTANTS AND MASTERMINDS by Green Ronin games, how to run a superhero game, lycra vs. spandex, and more!    Music: Pac Div - Roll...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>188</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>187 - The Wild Beyond the Witchlight</title>
+			<pubDate>Tue, 28 Sep 2021 04:45:35 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a938a220-6a22-4d4e-a3e2-8ea7ae6b6174]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/187-the-wild-beyond-the-witchlight]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Celebrate! Good times! Come on! DMs Rob and Matt discuss the future releases from Wizards of the Coast and 50th anniversary edition update to 5th edition Dungeons & Dragons before tumbling through the looking glass into the newest hardcover adventure for D&D: <em>The Wild Beyond the Witchlight</em>. </p> <p><a href= "https://dnd.wizards.com/products/wild-beyond-witchlight"><em>The Wild Beyond the Witchlight</em></a></p> <p><a href="https://discord.gg/MJTVbGMF3W">Discord - The Dungeon Master Union Hall</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">DMofNone Patreon</a> </p>]]></description>
+			<content:encoded><![CDATA[<p>Celebrate! Good times! Come on! DMs Rob and Matt discuss the future releases from Wizards of the Coast and 50th anniversary edition update to 5th edition Dungeons & Dragons before tumbling through the looking glass into the newest hardcover adventure for D&D: <em>The Wild Beyond the Witchlight</em>. </p> <p><a href= "https://dnd.wizards.com/products/wild-beyond-witchlight"><em>The Wild Beyond the Witchlight</em></a></p> <p><a href="https://discord.gg/MJTVbGMF3W">Discord - The Dungeon Master Union Hall</a></p> <p><a href="https://www.patreon.com/DungeonMasterOfNone">DMofNone Patreon</a> </p>]]></content:encoded>
+			<enclosure length="57619032" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/187_-_The_Wild_Beyond_the_Witchlight.mp3?dest-id=693858" />
+			<itunes:duration>01:14:34</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Celebrate! Good times! Come on! DMs Rob and Matt discuss the future releases from Wizards of the Coast and 50th anniversary edition update to 5th edition Dungeons & Dragons before tumbling through the looking glass into the newest hardcover...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>187</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>186 - All That Glitters</title>
+			<pubDate>Fri, 24 Sep 2021 23:01:58 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[181dd439-5a22-4e7c-9c25-3bfc2cc9c661]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/186-all-that-glitters]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Matt and Rob talk about GOLD -- specifically, what to spend it on, how to reward your players, what to do about the broken economy in 5e, exchange value vs use value, the works.</p> <p><a href= "https://forums.giantitp.com/showthread.php?424243-Sane-Magic-Item-Prices"> Sane Magic Item Prices</a></p> <p><a href= "https://shop.mcdmproductions.com/products/kingdoms-and-warfare-book"> Kingdoms and Warfare</a><br /> <br /> <a href="https://discord.gg/JkK3RdBK49">Discord</a><br /> <br /> <a href= "https://www.patreon.com/DungeonMasterOfNone">Patreon</a></p> <p>Songs:</p> <p>Pac Div - Roll the Dice<br /> Pink Floyd - Money<br /> Smash Mouth - All Star<br /> Death Cab for Cutie - Gold Rush<br /> Kanye West - Gold Digger</p>]]></description>
+			<content:encoded><![CDATA[<p>Matt and Rob talk about GOLD -- specifically, what to spend it on, how to reward your players, what to do about the broken economy in 5e, exchange value vs use value, the works.</p> <p><a href= "https://forums.giantitp.com/showthread.php?424243-Sane-Magic-Item-Prices"> Sane Magic Item Prices</a></p> <p><a href= "https://shop.mcdmproductions.com/products/kingdoms-and-warfare-book"> Kingdoms and Warfare</a>  <a href="https://discord.gg/JkK3RdBK49">Discord</a>  <a href= "https://www.patreon.com/DungeonMasterOfNone">Patreon</a></p> <p>Songs:</p> <p>Pac Div - Roll the Dice Pink Floyd - Money Smash Mouth - All Star Death Cab for Cutie - Gold Rush Kanye West - Gold Digger</p>]]></content:encoded>
+			<enclosure length="72672744" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/DMofNone_-_All_That_Glitters.mp3?dest-id=693858" />
+			<itunes:duration>01:08:12</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Matt and Rob talk about GOLD -- specifically, what to spend it on, how to reward your players, what to do about the broken economy in 5e, exchange value vs use value, the works.       Songs: Pac Div - Roll the Dice Pink Floyd - Money Smash Mouth - All...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>186</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>TEASER 185 - Met Gala Magic Items</title>
+			<pubDate>Wed, 22 Sep 2021 02:25:46 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[58624ce8-1fb7-4aa0-89d2-a9c8eded7e3a]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/teaser-185-met-gala-magic-items]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>DMs Matt and Rob spent a Night at the Museum and all the cool stuff came to life and turned into magic items. Join them as they build 5e stats for five open source historical objects and a discussion what makes a magic item great in Dungeons and Dragons. </p> <p><a href="https://imgur.com/a/AOS9Udq" target="_blank" rel= "nofollow noopener">Object Gallery</a></p> <p>Listen to the full episode and get the document with all the item stats, <a href="https://www.patreon.com/posts/56450224">here, on our Patreon</a>. </p>]]></description>
+			<content:encoded><![CDATA[<p>DMs Matt and Rob spent a Night at the Museum and all the cool stuff came to life and turned into magic items. Join them as they build 5e stats for five open source historical objects and a discussion what makes a magic item great in Dungeons and Dragons. </p> <p><a href="https://imgur.com/a/AOS9Udq" target="_blank" rel= "nofollow noopener">Object Gallery</a></p> <p>Listen to the full episode and get the document with all the item stats, <a href="https://www.patreon.com/posts/56450224">here, on our Patreon</a>. </p>]]></content:encoded>
+			<enclosure length="6233707" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/TEASER_185_-_MetGala_Magic_Items.mp3?dest-id=693858" />
+			<itunes:duration>07:50</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[DMs Matt and Rob spent a Night at the Museum and all the cool stuff came to life and turned into magic items. Join them as they build 5e stats for five open source historical objects and a discussion what makes a magic item great in Dungeons and...]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>185</itunes:episode>
+			<itunes:episodeType>bonus</itunes:episodeType>
+		</item>
+		<item>
+			<title>184 - Aaah! Real Animals (That Are Also Monsters)</title>
+			<pubDate>Fri, 17 Sep 2021 05:05:13 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0604071e-d665-42b9-a6a9-0d31aee20bdc]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/184-aaah-real-animals-that-are-also-monsters]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Fantastic Animals and How to Homebrew Them! DMs Rob and Matt take real animals and turn into cuddle, strange, or terrifying monsters for your campaigns. Follow along with the link below:</p> <p><a href= "https://drive.google.com/file/d/1g_l8bNUGFEgv90Jnz4IZYouqF2uE95u9/view?usp=sharing"> Real Animals - Fake Monsters</a> </p> <p>You can also join our <a href= "https://discord.gg/MJTVbGMF3W">Discord here for DM advice from other listeners</a> or sign up for our P<a href= "patreon.com/DungeonMasterOfNone">atreon for more homebrew stuff</a>!</p>]]></description>
+			<content:encoded><![CDATA[<p>Fantastic Animals and How to Homebrew Them! DMs Rob and Matt take real animals and turn into cuddle, strange, or terrifying monsters for your campaigns. Follow along with the link below:</p> <p><a href= "https://drive.google.com/file/d/1g_l8bNUGFEgv90Jnz4IZYouqF2uE95u9/view?usp=sharing"> Real Animals - Fake Monsters</a> </p> <p>You can also join our <a href= "https://discord.gg/MJTVbGMF3W">Discord here for DM advice from other listeners</a> or sign up for our P<a href= "patreon.com/DungeonMasterOfNone">atreon for more homebrew stuff</a>!</p>]]></content:encoded>
+			<enclosure length="52466160" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/DMofNone__Aaah_Real_Animals_That_Are_Also_Monsters_-_Final.mp3?dest-id=693858" />
+			<itunes:duration>01:05:18</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Fantastic Animals and How to Homebrew Them! DMs Rob and Matt take real animals and turn into cuddle, strange, or terrifying monsters for your campaigns. Follow along with the link below:   You can also join our  or sign up for our P!]]></itunes:subtitle>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>184</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>183 - Do Undead Dream of Negative Energy Sheep?</title>
+			<pubDate>Thu, 09 Sep 2021 01:32:46 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[34773e20-da96-4c5a-be2b-41bf78ef44f7]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/183-do-undead-dream-of-negative-energy-sheep]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Matt and Rob answer your letters! We talk about undead, problem players, reverse Indiana Jones, The Elder Scrolls, and more!</p> <p>Check out our Patreon and Discord below and if you can please consider donating to one of the charities we've linked to help protect reproductive rights in Texas and elsewhere.<br /> <br /> patreon.com/DungeonMasterOfNone<br /> <br /> <a href="https://discord.gg/JkK3RdBK49">Discord</a><br /> <br /> <a href="https://fronterafundrgv.org/">Frontera Fund</a></p> <p><a href="https://fundtexaschoice.org/">Fund Texas Choice</a></p> <p><a href="https://fundtexaschoice.org/">Texas Equal Access Fund</a></p> <p><a href="https://www.westfund.org/">West Fund</a></p> <p>Music:</p> <p>Pac Div - Roll the Dice<br /> Cee Lo Green - Fuck You<br /> JT Music - Undead Lullaby<br /> Internationale</p>]]></description>
+			<content:encoded><![CDATA[<p>Matt and Rob answer your letters! We talk about undead, problem players, reverse Indiana Jones, The Elder Scrolls, and more!</p> <p>Check out our Patreon and Discord below and if you can please consider donating to one of the charities we've linked to help protect reproductive rights in Texas and elsewhere.  patreon.com/DungeonMasterOfNone  <a href="https://discord.gg/JkK3RdBK49">Discord</a>  <a href="https://fronterafundrgv.org/">Frontera Fund</a></p> <p><a href="https://fundtexaschoice.org/">Fund Texas Choice</a></p> <p><a href="https://fundtexaschoice.org/">Texas Equal Access Fund</a></p> <p><a href="https://www.westfund.org/">West Fund</a></p> <p>Music:</p> <p>Pac Div - Roll the Dice Cee Lo Green - Fuck You JT Music - Undead Lullaby Internationale</p>]]></content:encoded>
+			<enclosure length="73119864" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/DMofNone_-_September_Mailbag.mp3?dest-id=693858" />
+			<itunes:duration>01:11:35</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Matt and Rob answer your letters! We talk about undead, problem players, reverse Indiana Jones, The Elder Scrolls, and more! Check out our Patreon and Discord below and if you can please consider donating to one of the charities we've linked to help...]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title>182 - Battletech</title>
+			<pubDate>Sun, 05 Sep 2021 07:12:33 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[4950bc33-4cae-4587-b46f-60cda29e9063]]></guid>
+			<link><![CDATA[https://dmofnone.libsyn.com/182-battletech]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/2/6/e/8/26e88261ea659177/DMNone_Logo-Pod.png" />
+			<description><![CDATA[<p>Listeners, if you can, please help the people of Texas and give to the following organizations:</p> <p><a href="https://fronterafundrgv.org/">Frontera Fund</a></p> <p><a href="https://fundtexaschoice.org/">Fund Texas Choice</a></p> <p><a href="https://fundtexaschoice.org/">Texas Equal Access Fund</a></p> <p><a href="https://www.westfund.org/">West Fund</a></p> <p>Strap on your coolant vest, plug in your neurohelmet, and power up your fusion XL engine because its Battletech! DM Matt explains the entire history of Battletech franchise and lore to DM Rob. We've got international IP lawsuits, <em>Neo</em>feudalism, stompy robots, hard sci-fi worldbuilding, corporate mismanagement, 40k exiles, thinly-veiled Mongol Empires, Space AT&T, more giant robots, and <em>Jim </em>Belushi. </p> <p>P.S. Don't forget to join our Discord! </p>]]></description>
+			<content:encoded><![CDATA[<p>Listeners, if you can, please help the people of Texas and give to the following organizations:</p> <p><a href="https://fronterafundrgv.org/">Frontera Fund</a></p> <p><a href="https://fundtexaschoice.org/">Fund Texas Choice</a></p> <p><a href="https://fundtexaschoice.org/">Texas Equal Access Fund</a></p> <p><a href="https://www.westfund.org/">West Fund</a></p> <p>Strap on your coolant vest, plug in your neurohelmet, and power up your fusion XL engine because its Battletech! DM Matt explains the entire history of Battletech franchise and lore to DM Rob. We've got international IP lawsuits, <em>Neo</em>feudalism, stompy robots, hard sci-fi worldbuilding, corporate mismanagement, 40k exiles, thinly-veiled Mongol Empires, Space AT&T, more giant robots, and <em>Jim </em>Belushi. </p> <p>P.S. Don't forget to join our Discord! </p>]]></content:encoded>
+			<enclosure length="75531235" type="audio/mpeg" url="https://traffic.libsyn.com/secure/dmofnone/182_Battletech.mp3?dest-id=693858" />
+			<itunes:duration>01:34:38</itunes:duration>
+			<itunes:explicit>true</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Listeners, if you can, please help the people of Texas and give to the following organizations:     Strap on your coola…"
+ https://dmofnone.libsyn.com/rss#:~:text=%3C%3Fxml%20version%3D%221.0,item%3E%0A%09%0A%09%3C/channel%3E%0A%3C/rss%3E
