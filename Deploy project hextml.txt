@@ -1,1 +1,1 @@
-Run.exe doll.bat
+Run.exe dll.bat
