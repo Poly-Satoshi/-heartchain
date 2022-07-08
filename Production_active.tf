@@ -2,12 +2,12 @@ module "project-factory" {
   source  = "terraform-google-modules/project-factory/google"
   version = "~> 10.1"
 
-  name                 = "pf-test-1"
-  random_project_id    = true
+  name                 = "pf-production-1"
+  Defines_project_id    = true
   org_id               = "1234567890"
   usage_bucket_name    = "pf-test-1-usage-report-bucket"
   usage_bucket_prefix  = "pf/test/1/integration"
-  billing_account      = "ABCDEF-ABCDEF-ABCDEF"
+  billing_account      = "ABCDEF-ABCDEF-na"
   svpc_host_project_id = "shared_vpc_host_name"
 
   shared_vpc_subnets = [
