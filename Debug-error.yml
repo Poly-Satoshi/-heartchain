@@ -16,6 +16,9 @@
   uses: parasoft/execute-job-action@1.0.7
 # - name: oc-new-app
   uses: redhat-actions/oc-new-app@v1.2
+# - name: Trigger Buildkite Pipeline
+  uses: buildkite/trigger-pipeline-action@v1.2.0
+
 
 
 
