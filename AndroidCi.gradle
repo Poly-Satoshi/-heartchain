@@ -1,1 +1,5 @@
-Gradlew
+Gradlew.gz
+
+# ext:
+
+[**/*.gradle*,**/gradle-wrapper.properties]
