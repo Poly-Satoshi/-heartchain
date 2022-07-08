@@ -8,5 +8,8 @@
   uses: aws-actions/codeguru-reviewer@v1.1
 # - name: OpenShift Client Installer
   uses: redhat-actions/oc-installer@v1
+# - name: OpenShift Self Hosted Runner Installer
+  uses: redhat-actions/openshift-actions-runner-installer@v1.0.0
+
 
 
