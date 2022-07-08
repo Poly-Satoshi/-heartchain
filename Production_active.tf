@@ -1,19 +1,21 @@
-# data "aws_vpc" "gelistirici-vpc" { ... }
-/n block definition = /-heartchain
- /n debug-production error = block definition = /-heartchain
- /n debug-production error = block definition = /-
- /n debug-production error = block definition = /-
-/n name = "my-vpc"
-  cidr = "10.0.0.0/16"
- /n azs             = ["eu-west-1a", "eu-west-1b", "eu-west-1c"]
-/n  private_subnets = ["10.0.1.0/24", "10.0.2.0/24", "10.0.3.0/24"]
- /n public_subnets  = ["10.0.101.0/24", "10.0.102.0/24", "10.0.103.0/24"]
-/n  enable_nat_gateway = true
-/n  enable_vpn_gateway = true
-# replace .tf = error.debug = .json
-/nTerraform = "true"
-  /n  Environment = "dev"
-/n tags = {
+module "project-factory" {
+  source  = "terraform-google-modules/project-factory/google"
+  version = "~> 10.1"
+
+  name                 = "pf-test-1"
+  random_project_id    = true
+  org_id               = "1234567890"
+  usage_bucket_name    = "pf-test-1-usage-report-bucket"
+  usage_bucket_prefix  = "pf/test/1/integration"
+  billing_account      = "ABCDEF-ABCDEF-ABCDEF"
+  svpc_host_project_id = "shared_vpc_host_name"
+
+  shared_vpc_subnets = [
+    "projects/base-project-196723/regions/us-east1/subnetworks/default",
+    "projects/base-project-196723/regions/us-central1/subnetworks/default",
+    "projects/base-project-196723/regions/us-central1/subnetworks/subnet-1",
+  ]
+}
     
   
 
