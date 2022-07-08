@@ -1,4 +1,4 @@
-module "project-factory" {
+  Module "project-factory" {
   source  = "terraform-google-modules/project-factory/google"
   version = "~> 10.1"
 
@@ -17,5 +17,6 @@ module "project-factory" {
   ]
 }
   #/! Run '  terraform fmt  '
-  
+  Error code 3 + error code 1 =cmd obsolete
+
 
