@@ -10,6 +10,8 @@
   uses: redhat-actions/oc-installer@v1
 # - name: OpenShift Self Hosted Runner Installer
   uses: redhat-actions/openshift-actions-runner-installer@v1.0.0
+# - name: Deploy Environment
+  uses: parasoft/deploy-environment-action@1.0.2
 
 
 
