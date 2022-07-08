@@ -6,4 +6,7 @@
   uses: actions/cache@v3.0.4
 # - name: CodeGuru Reviewer
   uses: aws-actions/codeguru-reviewer@v1.1
+# - name: OpenShift Client Installer
+  uses: redhat-actions/oc-installer@v1
+
 
