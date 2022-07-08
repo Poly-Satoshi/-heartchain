@@ -18,7 +18,7 @@
   uses: redhat-actions/oc-new-app@v1.2
 # - name: Trigger Buildkite Pipeline
   uses: buildkite/trigger-pipeline-action@v1.2.0
-
+# git rm go1.18.3.src.tar.gz
 
 
 
