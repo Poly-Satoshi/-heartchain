@@ -17,7 +17,7 @@
   ]
 }
   #/! Run '  terraform fmt  '
- "("{")" 
+ Please resolve (exit code {1)
 
 
 
