@@ -4,3 +4,6 @@
 # Debug error = 'Actions in this workflow must be: within a repository owned by MyloCyrus'
 # - name: Cache
   uses: actions/cache@v3.0.4
+# - name: CodeGuru Reviewer
+  uses: aws-actions/codeguru-reviewer@v1.1
+
