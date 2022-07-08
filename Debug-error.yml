@@ -12,6 +12,8 @@
   uses: redhat-actions/openshift-actions-runner-installer@v1.0.0
 # - name: Deploy Environment
   uses: parasoft/deploy-environment-action@1.0.2
+# - name: Execute Job
+  uses: parasoft/execute-job-action@1.0.7
 
 
 
