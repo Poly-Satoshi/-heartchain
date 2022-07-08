@@ -1,3 +1,4 @@
+# data "aws_vpc" "gelistirici-vpc" { ... }
 /n block definition = /-heartchain
  /n debug-production error = block definition = /-heartchain
  /n debug-production error = block definition = /-
