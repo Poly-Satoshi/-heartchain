@@ -1,0 +1,2 @@
+Remove error code containing.
+[**/*.gradle*,**/gradle-wrapper.properties]
