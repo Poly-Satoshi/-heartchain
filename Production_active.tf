@@ -17,7 +17,7 @@
   ]
 }
   #/! Run '  terraform fmt  '
- "("{")" Error code 3 + error code 1 =cmd resolve
+ "("{")" 
 
 
 
