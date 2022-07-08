@@ -3,7 +3,7 @@
 # account id: 20f234476ddf4fa9bf219f4906871911
 # user = ( mylo@fbi.ac ) password login = (I172166i)
 # To configure this workflow:
-#
+# ibmcloud login -a https://cloud.ibm.com -u passcode -p cyR5C5tpIT
 # 1. Ensure that your repository contains a Dockerfile
 # 2. Setup secrets in your repository by going to settings: Create ICR_NAMESPACE and IBM_CLOUD_API_KEY
 # 3. Change the values for the IBM_CLOUD_REGION, REGISTRY_HOSTNAME, IMAGE_NAME, IKS_CLUSTER, DEPLOYMENT_NAME, and PORT
