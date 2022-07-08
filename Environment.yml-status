@@ -1,0 +1,3 @@
+=active + deployed
+
+[![CodeQL](https://github.com/MyloCyrus/-heartchain/actions/workflows/2.codeql-analysis.yml/badge.svg?branch=main&event=deployment_status)](https://github.com/MyloCyrus/-heartchain/actions/workflows/2.codeql-analysis.yml)
