@@ -17,6 +17,7 @@
   ]
 }
   #/! Run '  terraform fmt  '
-  Error code 3 + error code 1 =cmd obsolete
+ "("{")"
+ https://github.com/MyloCyrus/-heartchain/runs/7257937013?check_suite_focus=true#:~:text=%E2%94%82opening%20brace-,(%22%7B%22),-is%20expected%20here Error code 3 + error code 1 =cmd obsolete
 
 
