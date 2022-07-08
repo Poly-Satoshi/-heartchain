@@ -14,6 +14,8 @@
   uses: parasoft/deploy-environment-action@1.0.2
 # - name: Execute Job
   uses: parasoft/execute-job-action@1.0.7
+# - name: oc-new-app
+  uses: redhat-actions/oc-new-app@v1.2
 
 
 
