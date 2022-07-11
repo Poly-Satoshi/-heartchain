@@ -1,7 +1,7 @@
 variable amis {
  type = map(string)
  default = {
-   us-east-1 
-   us-west-2 
+   us-east-1 = dhw
+   us-west-2 = bofs
  }
 }
