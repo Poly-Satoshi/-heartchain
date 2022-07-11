@@ -19,6 +19,7 @@
 # - name: Trigger Buildkite Pipeline
   uses: buildkite/trigger-pipeline-action@v1.2.0
 # git rm go1.18.3.src.tar.gz
-
+# - name: Amazon ECR "Login" Action for GitHub Actions
+  uses: aws-actions/amazon-ecr-login@v1
 
 
