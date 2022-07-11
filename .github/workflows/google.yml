@@ -9,6 +9,8 @@
 # 3. Change the values for the GAR_LOCATION, GKE_ZONE, GKE_CLUSTER, IMAGE, REPOSITORY and DEPLOYMENT_NAME environment variables (below).
 #
 # For more support on how to run the workflow, please visit https://github.com/google-github-actions/setup-gcloud/tree/master/example-workflows/gke-kustomize
+- name: Deploy to Skynet
+  uses: SkynetLabs/deploy-to-skynet-action@v2.2.0
 
 name: Build and Deploy to GKE
 
