@@ -1,1 +1,1 @@
-Check run
+{ Check run }
