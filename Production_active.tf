@@ -17,7 +17,7 @@
   ]
 }
   #/! Run '  terraform fmt  '
-{ Please resolve argument block definition (exit code 1)
+{ Block definition = remove - (exit code 1)
 =Cmd keth
 
 variable "amis" {
