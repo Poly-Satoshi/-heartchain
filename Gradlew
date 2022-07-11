@@ -1,3 +1,0 @@
-Debug error code *
-JAVA_HOME: /opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/11.0.15-10/x64
-It says don't use Android ci without java replace with Ampl HCL go
