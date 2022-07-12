@@ -1,1 +1,4 @@
-.terraformrc
+{ Add ( .terraformrc )
+
+}
+   {
