@@ -1,4 +1,1 @@
-{ Add ( .terraformrc ) remove ( error code 1 )
-
-}
-   {
+Run production remove code 1
